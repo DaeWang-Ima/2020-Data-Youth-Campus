@@ -1,0 +1,4 @@
+data/경부선[[:space:]]8월[[:space:]]데이터(2주).csv filter=lfs diff=lfs merge=lfs -text
+data/5월/5월.csv filter=lfs diff=lfs merge=lfs -text
+data/6월/6월.csv filter=lfs diff=lfs merge=lfs -text
+data/7월/7월.csv filter=lfs diff=lfs merge=lfs -text
